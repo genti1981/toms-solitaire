@@ -45,7 +45,7 @@ LEADERBOARD_FILENAME = "scores.json"
 # higher than VERSION below it offers to download the listed files. Leave
 # UPDATE_REPO empty to turn the update check off.
 VERSION = "1.0.0"
-UPDATE_REPO = ""          # e.g. "genti1981/toms-solitaire"
+UPDATE_REPO = "genti1981/toms-solitaire"          # e.g. "genti1981/toms-solitaire"
 UPDATE_BRANCH = "main"
 
 # --- Version / auto-update (optional) ---------------------------------------
